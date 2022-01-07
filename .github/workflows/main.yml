@@ -1,4 +1,4 @@
-name: Deploy on Github Pages
+name: Deploy Blazor WASM to Github Pages
 
 on:
   push:
